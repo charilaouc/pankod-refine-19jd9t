@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sssssses",
+  "info": {
+    "singularName": "ssssss",
+    "pluralName": "sssssses",
+    "displayName": "ssssss"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sssss": {
+      "type": "string"
+    }
+  }
+}
