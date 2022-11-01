@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- *  company controller
+ *  quote controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::company.company');
+module.exports = createCoreController('api::invoice.invoice');
